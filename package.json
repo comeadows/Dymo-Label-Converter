@@ -1,0 +1,41 @@
+{
+  "name": "label-maker",
+  "description": "Generates pdf labels from Dymo Label Software XML.",
+  "version": "1.0.0",
+  "author": "Cassie Meadows <cmeadows@avkare.com>",
+
+  "keywords": [
+    "label",
+    "XML",
+    "DYMO",
+    "pdf"
+  ],
+  "homepage": "http://bitbucket.avkare.com:7990/projects/UT/repos/labelmaker/browse",
+  "bugs":  {
+    "email": "cmeadows@avkare.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://bitbucket.avkare.com:7990/projects/UT/repos/labelmaker/browse"
+  },
+  "dependencies": {
+    "nan": "^2.0.9",
+    "canvas": "^1.3.6",
+    "bwip-js": "^0.15.1",
+    "xml2js": "*",
+    "image-size": "*",
+    "moment": "^2.10.0"
+
+  },
+  "devDependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.2",
+    "jade": "^1.11.0",
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "./lib/canvas.js",
+  "license": "MIT"
+}
