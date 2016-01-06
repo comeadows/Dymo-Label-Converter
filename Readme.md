@@ -1,17 +1,12 @@
-node-canvas
+label-maker
 ===========
 ### Canvas graphics API backed by Cairo
-[![Build Status](https://travis-ci.org/Automattic/node-canvas.svg?branch=master)](https://travis-ci.org/Automattic/node-canvas)
-[![NPM version](https://badge.fury.io/js/canvas.svg)](http://badge.fury.io/js/canvas)
 
   node-canvas is a [Cairo](http://cairographics.org/) backed Canvas implementation for [NodeJS](http://nodejs.org).
 
 ## Authors
 
-  - TJ Holowaychuk ([tj](http://github.com/tj))
-  - Nathan Rajlich ([TooTallNate](http://github.com/TooTallNate))
-  - Rod Vagg ([rvagg](http://github.com/rvagg))
-  - Juriy Zaytsev ([kangax](http://github.com/kangax))
+  - Cassie Meadows ([cmeadows@avkare.com](mailto:cmeadows@avkare.com))
 
 ## Installation
 
