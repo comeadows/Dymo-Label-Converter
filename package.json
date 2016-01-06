@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://bitbucket.avkare.com:7990/projects/UT/repos/labelmaker/browse"
+    "url": "http://cmeadows@bitbucket.avkare.com:7990/scm/ut/labelmaker.git"
   },
   "dependencies": {
     "nan": "^2.0.9",
